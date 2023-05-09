@@ -47,6 +47,7 @@ header {
     cursor: pointer;
 }
 
+
 .website-awesome {
     font-size: 36px;
     font-weight: bold;
@@ -117,13 +118,13 @@ a {
     width: 640px;
     display: flex;
     font-style: italic;
-    margin-right: 300px;
+    margin-right: 610px;
 }
 
 #quote-author {
     font-weight: bold;
     font-size: 25px;
-    margin-right: 300px;
+    margin-right: 610px;
 
 }
 
